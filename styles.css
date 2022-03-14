@@ -41,9 +41,9 @@ body {
   transform: rotate(25deg);
   position: absolute;
 }
+
 .container-fluid {
-  padding: 3% 20% 8% 20%;
-  padding-top: 50px;
+  padding: 3% 20% 10% 20%;
 }
 
 .Download-btns {
@@ -73,7 +73,6 @@ body {
 
 #features {
   padding: 12% 15%;
-
   line-height: 1.5;
   position: relative;
   z-index: 1;
